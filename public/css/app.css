@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(234, 234, 234);
+}
+
+li {
+  list-style-type: none;
+}
+
+#searchBy {
+  width: 250px;
+}
